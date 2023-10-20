@@ -1,3 +1,4 @@
+# WADE e DJALMA
 # Nome do Projeto: Sistema de Gerenciamento Financeiro Pessoal
 # Descrição
 O sistema de gerenciamento financeiro pessoal é um software que permite que os usuários controlem suas finanças pessoais de forma eficaz e eficiente, ajudando na economia de dinheiro, planejamento, endividamentos e alcançar metas financeiras.
