@@ -1,7 +1,7 @@
 # Nome do Projeto: Sistema de Gerenciamento Financeiro Pessoal
 # Equipe
-##Capitão Mbaye WADE ( VICTOR)  21301
-##Ten DJALMA 
+Capitão Mbaye WADE ( VICTOR)  21301                                                                                                                                     
+Ten DJALMA 
 # Descrição
 O sistema de gerenciamento financeiro pessoal é um software que permite que os usuários controlem suas finanças pessoais de forma eficaz e eficiente, ajudando na economia de dinheiro, planejamento, endividamentos e alcançar metas financeiras.
 # Função
